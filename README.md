@@ -1,2 +1,2 @@
 # sample_analytics_page
-Just a basic webpage. FYI - links are not functional. 
+Just a basic webpage. FYI - links are not functional. Thanks for the help W3 Schools Online! 
